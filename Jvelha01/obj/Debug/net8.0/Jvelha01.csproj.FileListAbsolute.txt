@@ -1,0 +1,14 @@
+C:\Users\40683987\source\repos\Jvelha01\Jvelha01\bin\Debug\net8.0\Jvelha01.exe
+C:\Users\40683987\source\repos\Jvelha01\Jvelha01\bin\Debug\net8.0\Jvelha01.deps.json
+C:\Users\40683987\source\repos\Jvelha01\Jvelha01\bin\Debug\net8.0\Jvelha01.runtimeconfig.json
+C:\Users\40683987\source\repos\Jvelha01\Jvelha01\bin\Debug\net8.0\Jvelha01.dll
+C:\Users\40683987\source\repos\Jvelha01\Jvelha01\bin\Debug\net8.0\Jvelha01.pdb
+C:\Users\40683987\source\repos\Jvelha01\Jvelha01\obj\Debug\net8.0\Jvelha01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\40683987\source\repos\Jvelha01\Jvelha01\obj\Debug\net8.0\Jvelha01.AssemblyInfoInputs.cache
+C:\Users\40683987\source\repos\Jvelha01\Jvelha01\obj\Debug\net8.0\Jvelha01.AssemblyInfo.cs
+C:\Users\40683987\source\repos\Jvelha01\Jvelha01\obj\Debug\net8.0\Jvelha01.csproj.CoreCompileInputs.cache
+C:\Users\40683987\source\repos\Jvelha01\Jvelha01\obj\Debug\net8.0\Jvelha01.dll
+C:\Users\40683987\source\repos\Jvelha01\Jvelha01\obj\Debug\net8.0\refint\Jvelha01.dll
+C:\Users\40683987\source\repos\Jvelha01\Jvelha01\obj\Debug\net8.0\Jvelha01.pdb
+C:\Users\40683987\source\repos\Jvelha01\Jvelha01\obj\Debug\net8.0\Jvelha01.genruntimeconfig.cache
+C:\Users\40683987\source\repos\Jvelha01\Jvelha01\obj\Debug\net8.0\ref\Jvelha01.dll
